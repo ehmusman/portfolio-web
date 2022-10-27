@@ -8,7 +8,7 @@ const Services = () => {
                   <div className="service-top">
                       <h1 className="section-title">Serv<span>i</span>ces</h1>
                       <p>
-                          I am a passionate full-stack web application developer. i'll provide you solution of your problems.
+                          I am a passionate full-stack web application developer.i&apos;ll provide you solution of your problems.
                       </p>
                   </div>
                   <div className="service-bottom">
