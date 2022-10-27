@@ -20,6 +20,11 @@ const Projects = () => {
             description: "SWISS Block is a centralized exchange it is a similar exchange like FTX but some add on functionality like of paper trading as the main thing of this exchange is that it is totally gasless, it has all types of trades like Future, Spot, Margin trading, etc.I worked as a full-stack developer. It is designed using Reactjs, Redux Toolkit, Typescript, Nodejs, Expressjs, PostgreSQL, and Sequilize ORM"
         },
         {
+            title: "LiteLaunch",
+            link: "https://www.youtube.com/watch?v=qqfy2KJ1mYI",
+            description: "It was a complete NFT marketplace. The marketplace contains the following functionality e.g., Buying, NFT Listing on Market Page, Selling, Bidding, Auctions, NFT Detail Page, Royalty Fee Standards, Market Place commission Fee. In this project, I worked as a full- stack developer.The technologies that are used are listed here. Reactjs, Reduxjs, Nodejs, Expressjs, MongoDB, Metamask Wallet Connection, and Ethersjs."
+        },
+        {
         title: "Noyz",
         link: "https://www.youtube.com/watch?v=uq7dKYAN3b8",
             description: "Noyz is a music-based NFT marketplace similar to Audius. Noyz is built on the Avalanche blockchain.The marketplace contains the following functionality e.g., Buying, NFT Listing on Market Page, Selling, Bidding, NFT , Royalty Fee Standards, Market Place commission Fee, User Proﬁles where users can listen to NFTS that they hold, Music Player, Users can follow the artist they like, Music Feed Section. In this project, I worked as a full- stack developer.The technologies that are used are listed here. Reactjs, Reduxjs, Nodejs, Expressjs, MongoDB, Metamask Wallet Connection, Etherjs, S3 bucket implementation for storing static Assets."
