@@ -23,6 +23,9 @@ const Header = () => {
                                   <Link href="/services" data-after="Service">Services</Link>
                               </li>
                               <li>
+                                  <Link href="/tools" data-after="Service">Techstack</Link>
+                              </li>
+                              <li>
                                   <Link href="/projects" data-after="Projects">Projects</Link>
                               </li>
                               <li><Link href="/about" data-after="About">About</Link></li>
