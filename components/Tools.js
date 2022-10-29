@@ -30,7 +30,9 @@ const Tools = () => {
                     {toolsData.map(tool => 
                     <div key={tool.name} className="card col-md-2 col-6 my-2 mx-2">
                         <h4>{tool.name}</h4>
-                        <Image layout='responsive' width="50" height="50" src={tool.icon} alt="Node Js Icon" />
+                        <div>
+                                <Image priority={true} layout='responsive' width="50" height="50" src={tool.icon} alt="Node Js Icon" />
+                        </div>
                     </div>
                         )}
                 </div>

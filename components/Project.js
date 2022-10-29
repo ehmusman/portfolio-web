@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 const Project = ({title, description , link, image, github}) => {
-  console.log("image", image);
   return (
     <>
       <div className="project-item my-2">
@@ -20,7 +19,7 @@ const Project = ({title, description , link, image, github}) => {
           </h1>
         </div>
         <div className="project-img">
-          <Image layout='fill' src={image || "/img-1.png"} alt="img" />
+          <Image layout='fill' priority={true} src={image || "/img-1.png"} alt="img" />
         </div>
       </div>
     </>
